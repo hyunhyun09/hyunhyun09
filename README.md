@@ -1,3 +1,4 @@
+### Hi there 👋  I am HyunJeong Kim (Sally).
 
 ## Skills
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-suqare&logo=C&logoColor=black"/></a>
@@ -31,6 +32,7 @@
 * Visualization
 * Computer Vision
 <br>
+
 ### Find me at
 <a href="김현정 says:
 https://www.instagram.com/hyun_hyun__01/" target="_blank"><img src="https://img.shields.io/badge/hyun_hyun__01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
